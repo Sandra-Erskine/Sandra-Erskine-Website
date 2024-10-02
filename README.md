@@ -7,7 +7,7 @@
 </head>
 <body>
     <h1>Welcome to My Website</h1>
-    <p>This is a simple website hosted on GitHub Pages!</p>
+    <p>This website is used to demonstrate html uses</p>
     <a href="https://github.com">Visit GitHub</a>
 </body>
 </html>
