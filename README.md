@@ -21,15 +21,6 @@
 <body>
     <header>
         <h1>Welcome to My Homepage!</h1>
-        <nav>
-            <ul>
-                <li><a href="index.html">Home</a></li>
-                <li><a href="story.html">My Favorite Story</a></li>
-                <li><a href="contact.html">Contact Us</a></li>
-            </ul>
-        </nav>
-    </header>
- <section>
         <h2>My Favorite Hobbies</h2>
         <ul>
             <li>weightlifting</li>
