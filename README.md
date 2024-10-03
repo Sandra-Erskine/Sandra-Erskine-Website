@@ -31,9 +31,9 @@
         </ul>
 <h2>Favorite Restaurants</h2>
         <ul>
-            <li><a href="https://(https://plonkwine.com)" target="_blank">Restaurant 1</a></li>
-            <li><a href="https://(https://www.saketomemissoula.com)" target="_blank">Restaurant 2</a></li>
-            <li><a href="https://https://www.brasserieporterouge.com" target="_blank">Restaurant 3</a></li>
+            <li><a href="https://.plonkwine.com" target="_blank">Restaurant 1</a></li>
+            <li><a href="https://.saketomemissoula.com" target="_blank">Restaurant 2</a></li>
+            <li><a href="https://.brasserieporterouge.com" target="_blank">Restaurant 3</a></li>
         </ul>
 
  <h2>My Favorite Websites</h2>
