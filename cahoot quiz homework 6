@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kahoot Link Example</title>
+</head>
+<body>
+    <h1>Kahoot Challenge</h1>
+    <p><a href="https://kahoot.it/challenge/84387498-97d5-4d82-ae4e-eabb1c94cf58_1726461002861?&uid=U2FuZHJh" target="_blank">Join the Kahoot Challenge</a></p>
+</body>
+</html>
